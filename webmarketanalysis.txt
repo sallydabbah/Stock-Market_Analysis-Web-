@@ -1,0 +1,11 @@
+ A stock-market analysis web 
+ by regestiring to the website,u can see the analysis of a chosen value (for a stock) that the user inserts.
+ PS. the file was bigger than 25Mb so a link into my drive's attached below.
+ 
+ to run the web:
+ 1. u need to run the server.sln file in Visual Studio 2017.
+ 2. after a successful run, write into ur browser localhost:52333.
+ it should work.
+ for any questions, please contact me.
+ 
+ https://drive.google.com/drive/folders/1-bttMzFfVIu2yJe58Ykd_3iSs5SK9O6V
